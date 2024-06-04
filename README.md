@@ -43,9 +43,5 @@ In this project, I focused on gaining insights into several critical aspects of 
 If you'd like to contribute to this project or have suggestions for improvements, please open an issue or submit a pull request.
 
 
-## Contact
-
-- LinkedIn: https://www.linkedin.com/in/3bnaser01/
-- Email: abonaser3401@gmail.com
 
 Feel free to reach out with any questions or feedback. I'm excited to share this project and explore the world of data analytics with you!
